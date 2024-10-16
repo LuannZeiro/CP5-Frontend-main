@@ -75,9 +75,6 @@ export default function Login() {
                     onChange={handlePassword}
                     placeholder="Digite sua Senha"
                 />
-                <Button type="button" onClick={handleClick}>
-                    Login
-                </Button>
             </form>
         </>
     );
