@@ -59,7 +59,7 @@ export default function Home() {
         <Header title="Home" userName={userName} />
         <div>
             {isLoading ? (
-            <p>Carregando...</p>
+            <p>Carregando</p>
             ) : (
             <div>
             

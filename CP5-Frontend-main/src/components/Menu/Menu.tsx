@@ -16,7 +16,7 @@ export const Menu = () => {
                 <StyledLi>
                     <BiSearch size="1.5rem" color="#000000" />
                     <StyledLink href={'/busca'}>
-                        Busca
+                        Buscar
                     </StyledLink>
                 </StyledLi>
                 <StyledLi>
