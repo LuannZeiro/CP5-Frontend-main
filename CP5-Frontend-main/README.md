@@ -41,7 +41,7 @@ Senha: abobrinha
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/MaryChriss/CP5-Frontend.git 
+   git clone https://github.com/LuannZeiro/CP5-Frontend-main
 
 2. **Instale as dependecias:**
    ```bash
