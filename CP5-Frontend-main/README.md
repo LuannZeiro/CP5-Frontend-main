@@ -30,13 +30,6 @@ Este projeto é uma aplicação web desenvolvida em Next.js 13 que possibilita b
 
 - Next.js 13
 
-## 🔑 Login
-Utilize as seguintes credenciais para autenticar no sistema:
-
-Email: jorge@abreu.com.br
-
-Senha: abobrinha
-
 ## Como rodar o projeto localmente
 
 1. **Clone o repositório:**
