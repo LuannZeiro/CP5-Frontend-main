@@ -73,6 +73,7 @@ export default function Login() {
                     id="password"
                     name="password"
                     onChange={handlePassword}
+                    placeholder="Digite sua Senha"
                 />
                 <Button type="button" onClick={handleClick}>
                     Login
