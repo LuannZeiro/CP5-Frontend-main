@@ -81,7 +81,6 @@ export default function Home() {
                 forecast.map((item) => (
                 <div key={item.data}>
                     <span>{dateFormat(item.data)} </span>
-                    <span>{item.condicao} </span>
                     <span>Min: {item.min}&#176;C </span>
                     <span>Max: {item.max}&#176;C</span>
                 </div>
