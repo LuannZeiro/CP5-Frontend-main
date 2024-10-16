@@ -51,6 +51,7 @@ Senha: abobrinha
 3. **Instale as dependências do projeto:**
    ```bash
    npm install
+   npm install jwt-decode
 
 4.  **Execute o projeto:**
     ```bash
