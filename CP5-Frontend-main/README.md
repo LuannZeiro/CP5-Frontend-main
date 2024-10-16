@@ -10,7 +10,7 @@ Este projeto é uma aplicação web desenvolvida em Next.js 13 que possibilita b
 
   - Sistema de login - Login utilizando autenticação com JWT. Após o login, o nome do usuário é mostrado na página de perfil.
 
-- **🛠️ Tecnologias Empregadas**
+- **🛠️ Tecnologias**
 
   - Next.js 13 (React).
 
