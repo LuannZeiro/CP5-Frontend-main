@@ -26,7 +26,7 @@ export default function Busca() {
         setCityList([]);
         
         if (!cityName.trim()) {
-        alert("Digite o nome de uma cidade para buscar.");
+        alert("Digite uma Cidade para Buscar.");
         return;
         }
 
