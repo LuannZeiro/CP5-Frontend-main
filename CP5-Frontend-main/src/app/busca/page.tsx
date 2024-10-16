@@ -70,7 +70,7 @@ export default function Busca() {
 
         <div>
             {isLoading ? (
-            <p>Carregando...</p>
+            <p>Carregando</p>
             ) : (
             <ul>
                 {cityList.length > 0 ? (
