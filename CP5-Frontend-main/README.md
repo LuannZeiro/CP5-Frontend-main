@@ -4,11 +4,11 @@ Este projeto é uma aplicação web desenvolvida em Next.js 13 que possibilita b
 
 - **📋 Funcionalidades**
 
-  - Busca por cidade: Pesquisa informações de cidades por CEP, utilizando a API brasilapi.com.br.
+  - Busca por cidade - Pesquisa informações de cidades por CEP, utilizando a API brasilapi.com.br.
 
-  - Exibição do clima: Mostra os dados climáticos (temperatura mínima e máxima) para a cidade consultada.
+  - Exibição do clima - Mostra os dados climáticos (temperatura mínima e máxima) para a cidade consultada.
 
-  - Sistema de login: Login utilizando autenticação com JWT. Após o login, o nome do usuário é mostrado na página de perfil.
+  - Sistema de login - Login utilizando autenticação com JWT. Após o login, o nome do usuário é mostrado na página de perfil.
 
 - **🛠️ Tecnologias Empregadas**
 
