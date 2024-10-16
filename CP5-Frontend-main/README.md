@@ -20,7 +20,7 @@ Este projeto é uma aplicação web desenvolvida em Next.js 13 que permite busca
 
 -API Fake: Servidor Hapi.js rodando localmente para simular o login e gerar tokens JWT
 
-## 🚀 Como Rodar o Projeto
+## Como rodar o projeto
 
 **Pré-requisitos**
 
