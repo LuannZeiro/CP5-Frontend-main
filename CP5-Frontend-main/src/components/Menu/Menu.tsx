@@ -8,25 +8,25 @@ export const Menu = () => {
         <StyledNav>
             <StyledUl>
                 <StyledLi>
-                    <BiHomeAlt size="1.5rem" color="#38aede" />
+                    <BiHomeAlt size="1.5rem" color="#000000" />
                     <StyledLink href={'/'}>
                         Inicio
                     </StyledLink>
                 </StyledLi>
                 <StyledLi>
-                    <BiSearch size="1.5rem" color="#38aede" />
+                    <BiSearch size="1.5rem" color="#000000" />
                     <StyledLink href={'/busca'}>
                         Busca
                     </StyledLink>
                 </StyledLi>
                 <StyledLi>
-                    <BiHeart size="1.5rem" color="#38aede" />
+                    <BiHeart size="1.5rem" color="#000000" />
                     <StyledLink href={'/favoritos'}>
                         Favoritos
                     </StyledLink>
                 </StyledLi>
                 <StyledLi>
-                    <BiUserCircle size="1.5rem" color="#38aede" />
+                    <BiUserCircle size="1.5rem" color="#000000" />
                     <StyledLink href={'/perfil'}>
                         Perfil
                     </StyledLink>
