@@ -1,37 +1,37 @@
-## Projeto de Consulta de Cidades e Previsão do tempo
+## Projeto de Consulta de Cidades e Previsão do Tempo
 
-Este projeto é uma aplicação web desenvolvida em Next.js 13 que permite buscar informações de cidades brasileiras e exibe as condições climáticas de cada cidade nos proximos 6 dias. O projeto também possui um sistema de login utilizando JWT para autenticação de usuários.
+Este projeto é uma aplicação web desenvolvida em Next.js 13 que possibilita buscar informações sobre cidades brasileiras e exibir as condições meteorológicas de cada local nos próximos 6 dias. O projeto também conta com um sistema de login utilizando JWT para autenticação de usuários.
 
--**📋 Funcionalidades**
+- **📋 Funcionalidades**
 
--Busca por cidade: Busca informações de cidades por CEP, utilizando a API brasilapi.com.br.
+  - Busca por cidade: Pesquisa informações de cidades por CEP, utilizando a API brasilapi.com.br.
 
--Exibição de clima: Exibe as informações climáticas (temperatura mínima e máxima) para a cidade pesquisada.
+  - Exibição do clima: Mostra os dados climáticos (temperatura mínima e máxima) para a cidade consultada.
 
--Sistema de login: Login utilizando autenticação com JWT. Ao fazer login, o nome do usuário é exibido na página de perfil.
+  - Sistema de login: Login utilizando autenticação com JWT. Após o login, o nome do usuário é mostrado na página de perfil.
 
--**🛠️ Tecnologias Utilizadas**
+- **🛠️ Tecnologias Empregadas**
 
--Next.js 13 (React).
+  - Next.js 13 (React).
 
--Context API para gerenciamento de estado global.
+  - Context API para gestão de estado global.
 
--API Externa: brasilapi.com.br para consulta de cidades e informações climáticas.
+  - API Externa: brasilapi.com.br para consulta de cidades e informações meteorológicas.
 
--API Fake: Servidor Hapi.js rodando localmente para simular o login e gerar tokens JWT
+  - API Fake: Servidor Hapi.js funcionando localmente para simular o login e gerar tokens JWT.
 
-## Como rodar o projeto
+## Como Executar o Projeto
 
 **Pré-requisitos**
 
--Node.js (versão >= 16.0.0)
+- Node.js (versão >= 16.0.0)
 
--npm
+- npm
 
--Next.js 13
+- Next.js 13
 
 ## 🔑 Login
-Utilize o seguinte login para autenticar no sistema:
+Utilize as seguintes credenciais para autenticar no sistema:
 
 Email: jorge@abreu.com.br
 
